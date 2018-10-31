@@ -1,0 +1,15 @@
+{
+  "name": "Exercise 7_4: Continuous",
+  "endpoint": "iwu/csds125/fa18/exercise_7_4",
+  "src": [
+    "in_class_7_4.ipynb"
+  ],
+  "tests": {
+    "tests/qdummy.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
