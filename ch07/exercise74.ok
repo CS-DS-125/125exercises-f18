@@ -1,6 +1,6 @@
 {
-  "name": "Exercise 7_4: Continuous",
-  "endpoint": "iwu/csds125/fa18/exercise_7_4",
+  "name": "Exercise 7.4: Continuous Data",
+  "endpoint": "iwu/csds125/fa18/exercise74",
   "src": [
     "in_class_7_4.ipynb"
   ],
