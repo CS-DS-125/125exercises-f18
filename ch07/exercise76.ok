@@ -1,6 +1,6 @@
 {
   "name": "Exercise 7.6: Review Pt 1",
-  "endpoint": "iwu/csds125/fa18/exercise74",
+  "endpoint": "iwu/csds125/fa18/inclass7_6",
   "src": [
     "in_class_7_6.ipynb"
   ],
